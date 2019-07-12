@@ -12,4 +12,4 @@ Step to use
 - wait a minutes program will display camera and detect face.
 
 Good Luck.
--- PasJ
+PasJ
